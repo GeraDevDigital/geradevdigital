@@ -40,4 +40,4 @@ Tenho como foco resolver problemas de forma rápida, eficiente e com boa comunic
 ## 📫 Contato
 
 - LinkedIn: https://www.linkedin.com/in/geraldo-almeida-tavares/
-- Email: eusougerabr@gmail.com
+- Email: geradevdigital@gmail.com
