@@ -4,21 +4,21 @@
 
 Profissional com experiência em Suporte Técnico N1/N2, ERP SAP Business One, atendimento ao cliente, implantação de sistemas e resolução de incidentes.
 
-Minha formação em Gestão de Recursos Humanos e Análise e Desenvolvimento de Sistemas me permite unir pessoas, processos e tecnologia para entregar soluções eficientes e gerar valor aos clientes.
+Formado em Gestão de Recursos Humanos e graduado em Análise e Desenvolvimento de Sistemas, unindo pessoas, processos e tecnologia para gerar soluções eficientes e melhorar a experiência dos clientes.
 
-## Competências
+### Principais Competências
 
-* Atendimento ao Cliente
+* Suporte Técnico N1/N2
 * ERP SAP Business One
-* Suporte N1 e N2
+* Atendimento ao Cliente
 * Gestão de Chamados
-* SQL
-* Treinamento de Usuários
 * Implantação de Sistemas
+* Treinamento de Usuários
+* SQL
 * Resolução de Problemas
 * Customer Experience
 
-## Tecnologias
+### Tecnologias
 
 * Java
 * Spring Boot
@@ -28,15 +28,17 @@ Minha formação em Gestão de Recursos Humanos e Análise e Desenvolvimento de 
 * PostgreSQL
 * Git e GitHub
 
-## Formação
+### Projetos em Destaque
 
-🎓 Análise e Desenvolvimento de Sistemas
+🚀 Recicla365
 
-🎓 Gestão de Recursos Humanos
+🏥 Sistema de Gestão Hospitalar
 
-🎓 Desenvolvimento Web Full Stack - SENAI LAB365
+🤝 Aplicativo para Voluntariado Religioso
 
-## Contato
+💰 Gestão Transparente de Recursos Comunitários
+
+### Contato
 
 LinkedIn:
 [www.linkedin.com/in/geraldo-almeida-tavares](http://www.linkedin.com/in/geraldo-almeida-tavares)
