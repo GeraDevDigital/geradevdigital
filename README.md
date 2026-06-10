@@ -1,43 +1,31 @@
-# 👋 Olá! Eu sou o Geraldo
+# Olá, eu sou Geraldo Almeida Tavares 👋
 
-💼 Analista de Suporte Técnico (N1/N2)  
-🎓 Graduado em Análise e Desenvolvimento de Sistemas  
-📊 Experiência com ERP (SAP Business One)  
+## Sobre mim
 
----
+Analista de Suporte e Relacionamento com Clientes com experiência em:
 
-## 🚀 Sobre mim
-
-Profissional com experiência em suporte técnico, atendimento ao cliente e resolução de incidentes.
-
-Atuo com:
-- Suporte N1/N2
 - ERP SAP Business One
+- Atendimento N1 e N2
 - SQL
-- Atendimento via chamados, telefone e acesso remoto
+- Treinamento de Usuários
+- Implantação de Sistemas
+- Desenvolvimento Web
 
-Tenho como foco resolver problemas de forma rápida, eficiente e com boa comunicação com o usuário.
+## Tecnologias
 
----
+- Java
+- Spring Boot
+- React
+- JavaScript
+- SQL
+- PostgreSQL
 
-## 🛠️ Tecnologias
+## Formação
 
-- Java | Spring Boot  
-- HTML | CSS | JavaScript | React  
-- SQL (PostgreSQL / MySQL)  
-- Git | Linux  
+- Análise e Desenvolvimento de Sistemas
+- Gestão de Recursos Humanos
 
----
+## Contato
 
-## 📌 Projetos em destaque
-
-🔹 Sistema de chamados (Help Desk)  
-🔹 API em Java com Spring Boot  
-🔹 Sistema de cadastro com banco de dados  
-
----
-
-## 📫 Contato
-
-- LinkedIn: https://www.linkedin.com/in/geraldo-almeida-tavares/
-- Email: geradevdigital@gmail.com
+LinkedIn:
+www.linkedin.com/in/geraldo-almeida-tavares
